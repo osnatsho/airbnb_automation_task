@@ -1,0 +1,16 @@
+AIRBNB SEARCH RESULTS
+=====================
+
+Search Date: 2025-05-17 21:46:00
+
+HIGHEST RATED LISTING:
+-----------------------
+Name: Luxury Apartment with Sea View in Tel Aviv
+Rating: 4.98
+Price: ₪650 per night
+
+CHEAPEST LISTING:
+----------------
+Name: Cozy Studio in Central Tel Aviv
+Rating: 4.75
+Price: ₪320 per night

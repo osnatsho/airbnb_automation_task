@@ -1,0 +1,15 @@
+{
+    "search_date": "2025-05-17 21:46:00",
+    "highest_rated_listing": {
+        "name": "Luxury Apartment with Sea View in Tel Aviv",
+        "rating": 4.98,
+        "price": "₪650 per night",
+        "note": "Sample data - actual listings not found"
+    },
+    "cheapest_listing": {
+        "name": "Cozy Studio in Central Tel Aviv",
+        "rating": 4.75,
+        "price": "₪320 per night",
+        "note": "Sample data - actual listings not found"
+    }
+}
