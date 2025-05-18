@@ -10,7 +10,7 @@ The project performs automated testing on the Airbnb site and includes assertion
 
 ## Setup Instructions
 
-### 1. Clone the repository
+##Clone the repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/airbnb_automation_task.git
